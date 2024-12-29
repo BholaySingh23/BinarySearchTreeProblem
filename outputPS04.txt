@@ -1,0 +1,20 @@
+Added Book: 1001 - "The Great Gatsby" by F. Scott Fitzgerald, ISBN: 9780743273565
+Added Book: 1002 - "To Kill a Mockingbird" by Harper Lee, ISBN: 9780061120084
+Added Book: 1003 - "1984" by George Orwell, ISBN: 9780451524935
+Added Book: 1004 - "Pride and Prejudice" by Jane Austen, ISBN: 9781503290563
+Added Book: 1005 - "The Catcher in the Rye" by J.D. Salinger, ISBN: 9780316769488
+Patron 2001 borrowed "To Kill a Mockingbird" (Book ID: 1002)
+Patron 2002 borrowed "The Great Gatsby" (Book ID: 1001)
+Patron 2002 returned "The Great Gatsby" (Book ID: 1001)
+Patron 2003 borrowed "Pride and Prejudice" (Book ID: 1004)
+Patron 2004 borrowed "The Catcher in the Rye" (Book ID: 1005)
+Book Details for ID 1001 :
+ - The Great Gatsby by F. Scott Fitzgerald, ISBN: 9780743273565, Available: Yes
+Book Details for ID 1002 : 
+- To Kill a Mockingbird by Harper Lee, ISBN: 9780061120084, Available: No
+Available Books:
+- Book ID 1001: "The Great Gatsby" by F. Scott Fitzgerald
+- Book ID 1003: "1984" by George Orwell
+Books by Author "George Orwell":
+- Book ID 1003: "1984" by George Orwell
+Patron 2002 has not borrowed any books.
